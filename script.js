@@ -12,7 +12,7 @@ ticketPrice=e.target.value
 updateSelectedCount()
 })
 
-// ============================================================
+// =====================================================
 // updating price and count
 function updateSelectedCount()
 {
